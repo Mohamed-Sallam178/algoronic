@@ -34,7 +34,10 @@ p{
     height: 100vh;
 }
 .cont-bg{
+    background-image: url(images/bg-69d45d79.png);
     background-attachment: fixed;
-    width: 100%;
-    height: 100%;
+}
+.contact .row > div {
+    float: left;
+    width: 50%;
 }
