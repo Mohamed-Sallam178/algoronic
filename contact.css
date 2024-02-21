@@ -41,3 +41,16 @@ p{
     float: left;
     width: 50%;
 }
+.contact .form{
+    background-color: #000;
+    padding: 20px;
+}
+.contact form input{
+    display: block;
+}
+.contact form input,.contact form textarea{
+    background-color: transparent;
+    border: none;
+    border-bottom:1px solid #fff;
+    margin-bottom: 20px;
+}
